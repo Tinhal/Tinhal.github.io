@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Tinhal.github.io/sitemap.xml
