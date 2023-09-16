@@ -19,11 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an incoming Master student in Artificial Intelligence & Robotics at [Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University](https://iiis.tsinghua.edu.cn/). under the supervision of [Prof. Huazhe Xu](http://hxu.rocks/). Now, I am a senior student at [School of Mechanical Engineering and Automation](http://smea.hitsz.edu.cn/), [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html). My major is Automation, with a minor in Computer Science and Technology.
+I am an incoming Master student in Artificial Intelligence & Robotics at [<u>Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University</u> ](https://iiis.tsinghua.edu.cn/)under the supervision of [Prof. Huazhe Xu](http://hxu.rocks/). 
 
-My research interests mainly include reinforcement learning and robotics. I'm particularly interested in the integration of reinforcement learning algorithms with actual robotic hardware. 
+Now, I am a senior student at [<u>School of Mechanical Engineering and Automation</u>](http://smea.hitsz.edu.cn/), [<u>Harbin Institute of Technology (Shenzhen)</u>](https://www.hitsz.edu.cn/index.html). My major is Automation, with a minor in Computer Science and Technology.
 
-Apart from this, I am also particularly interested in medicine and electronic circuits.
+My research interests mainly include reinforcement learning🖥️ and robotics🤖. I'm particularly interested in the integration of reinforcement learning algorithms with actual robotic hardware🦾. 
+
+Apart from this, I am also particularly interested in medicine🩺 and electronic circuits🔌.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
