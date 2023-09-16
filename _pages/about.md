@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an incoming Master student in Artificial Intelligence & Robotics at [<u>Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University</u> ](https://iiis.tsinghua.edu.cn/)under the supervision of [Prof. Huazhe Xu](http://hxu.rocks/). 
+I am an incoming Master student in Artificial Intelligence & Robotics at [<u>Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University</u> ](https://iiis.tsinghua.edu.cn/)under the supervision of [<u>Prof. Huazhe Xu</u>](http://hxu.rocks/). 
 
 Now, I am a senior student at [<u>School of Mechanical Engineering and Automation</u>](http://smea.hitsz.edu.cn/), [<u>Harbin Institute of Technology (Shenzhen)</u>](https://www.hitsz.edu.cn/index.html). My major is Automation, with a minor in Computer Science and Technology.
 
