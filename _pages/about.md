@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 🔗 <a href='http://smea.hitsz.edu.cn/'><b>Harbin Institute of Technology, Shenzhen</b></a>
 
 profile:
   align: right
@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an incoming Master student in Artificial Intelligence & Robotics at [<u>Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University</u> ](https://iiis.tsinghua.edu.cn/)under the supervision of [<u>Prof. Huazhe Xu</u>](http://hxu.rocks/). 
+I am an incoming Master student in Artificial Intelligence & Robotics at [<b>Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University</b> ](https://iiis.tsinghua.edu.cn/)under the supervision of [<b>Prof. Huazhe Xu</b>](http://hxu.rocks/). 
 
-Now, I am a senior student at [<u>School of Mechanical Engineering and Automation</u>](http://smea.hitsz.edu.cn/), [<u>Harbin Institute of Technology (Shenzhen)</u>](https://www.hitsz.edu.cn/index.html). My major is Automation, with a minor in Computer Science and Technology.
+Now, I am a senior student at [<b>School of Mechanical Engineering and Automation</b>](http://smea.hitsz.edu.cn/), [<b>Harbin Institute of Technology (Shenzhen)</b>](https://www.hitsz.edu.cn/index.html). My major is Automation, with a minor in Computer Science and Technology.
 
 My research interests mainly include reinforcement learning🖥️ and robotics🤖. I'm particularly interested in the integration of reinforcement learning algorithms with actual robotic hardware🦾. 
 
